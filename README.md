@@ -6,6 +6,9 @@
 ## 📫 Social
 [![Facebook Badge](https://img.shields.io/badge/-Warapon-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/kennoi17/)
 
+## 📃 During Study 
+- [JAVA-SS.1](https://github.com/dekchaiken/JAVA-SS.1)
+
 
 ## 📃 PREPROJECT SS2
 - [dektoonapp](https://github.com/dekchaiken/dektoonapp)
