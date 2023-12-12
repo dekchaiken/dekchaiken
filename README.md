@@ -2,6 +2,12 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-Warapon-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/kennoi17/)
 
+## 📖 PREPROJECT 
+[DEKTOON](https://github.com/dekchaiken/dektoonapp)
+
+## 📖 THIS PORTFOLIO
+
+
 
 ## 📈 Github Stat
 
