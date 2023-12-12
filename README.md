@@ -12,7 +12,7 @@
 ## 📖 THIS PORTFOLIO
 
 
-
+## 💻 My Tech Stack
 #### Android Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white)
