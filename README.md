@@ -4,12 +4,10 @@
 
 
 ## 📃 PREPROJECT SS2
-<!-- MEDIUM:START -->
-[dektoonapp](https://github.com/dekchaiken/dektoonapp)
-[UI_DEKTOON](https://github.com/dekchaiken/UI_DEKTOON)
-[SP_SQL_DEKTOON](https://github.com/dekchaiken/SP_SQL_DEKTOON)
-[API_DEKTOONAPP](https://github.com/dekchaiken/API_DEKTOONAPP)
-<!-- MEDIUM:END -->
+- [dektoonapp](https://github.com/dekchaiken/dektoonapp)
+- [UI_DEKTOON](https://github.com/dekchaiken/UI_DEKTOON)
+- [SP_SQL_DEKTOON](https://github.com/dekchaiken/SP_SQL_DEKTOON)
+- [API_DEKTOONAPP](https://github.com/dekchaiken/API_DEKTOONAPP)
 
 ## 📖 THIS PORTFOLIO
 
