@@ -8,6 +8,7 @@
 
 ## 📃 During Study 
 - [JAVA-SS.1](https://github.com/dekchaiken/JAVA-SS.1)
+- [Devlab-Borntodev](https://github.com/dekchaiken/Devlab-Borntodev)
 
 
 ## 📃 PREPROJECT SS2
