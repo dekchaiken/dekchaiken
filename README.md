@@ -11,7 +11,8 @@
 ## 📃 During Study 
 - [JAVA-SS.1](https://github.com/dekchaiken/JAVA-SS.1)
 - [Devlab-Borntodev](https://github.com/dekchaiken/Devlab-Borntodev)
-
+- [jQuery-Study(CE-340)](https://github.com/dekchaiken/CE340)
+- 
 
 ## 📃 PREPROJECT SS2
 - [dektoonapp](https://github.com/dekchaiken/dektoonapp)
