@@ -14,6 +14,7 @@
 - [jQuery-Study(CE-340)](https://github.com/dekchaiken/CE340)
 - [IOT-Arduino-Study(CE-379)](https://github.com/dekchaiken/CE379)
 - [Devlab-Borntodev](https://github.com/dekchaiken/Devlab-Borntodev)
+- [Study-Web-Development](https://github.com/dekchaiken/Web-Development)
 
 ## 📃 PREPROJECT SS2
 - [dektoonapp](https://github.com/dekchaiken/dektoonapp)
